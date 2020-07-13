@@ -110,10 +110,10 @@
         <sys_created_by/>
         <sys_created_on>2020-04-15 01:30:26</sys_created_on>
         <sys_id>778111f31b4810108a8a631d274bcbb0</sys_id>
-        <sys_mod_count/>
+        <sys_mod_count>0</sys_mod_count>
         <sys_recorded_at>1717b756f500000000</sys_recorded_at>
-        <sys_updated_by/>
-        <sys_updated_on/>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 15:46:57</sys_updated_on>
         <type>Choice list</type>
         <update_guid>378111f37d481010d7389d0951fc25b0</update_guid>
         <update_guid_history>378111f37d481010d7389d0951fc25b0:-1855163485</update_guid_history>

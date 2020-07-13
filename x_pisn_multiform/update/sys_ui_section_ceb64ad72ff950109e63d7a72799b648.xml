@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="3.Position Information (cont.)" section_id="ceb64ad72ff950109e63d7a72799b648" sys_domain="global" table="x_pisn_multiform_hhs520_request" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>apointment_type</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-09 19:30:20</sys_created_on>
+            <sys_id>84cb8e9b2ff950109e63d7a72799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="3.Position Information (cont.)" display_value="3.Position Information (cont.)" name="x_pisn_multiform_hhs520_request" sys_domain="global" view="Default view">ceb64ad72ff950109e63d7a72799b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-09 19:30:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>otherappointmentdescription</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-09 19:30:20</sys_created_on>
+            <sys_id>0ccb8e9b2ff950109e63d7a72799b6d7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="3.Position Information (cont.)" display_value="3.Position Information (cont.)" name="x_pisn_multiform_hhs520_request" sys_domain="global" view="Default view">ceb64ad72ff950109e63d7a72799b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-09 19:30:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>financialdisclosurestatus</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-09 19:30:20</sys_created_on>
+            <sys_id>80cb8e9b2ff950109e63d7a72799b6d8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="3.Position Information (cont.)" display_value="3.Position Information (cont.)" name="x_pisn_multiform_hhs520_request" sys_domain="global" view="Default view">ceb64ad72ff950109e63d7a72799b648</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-09 19:30:20</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>3.Position Information (cont.)</caption>
+            <header>false</header>
+            <name>x_pisn_multiform_hhs520_request</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-07-09 19:08:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ceb64ad72ff950109e63d7a72799b648</sys_id>
+            <sys_mod_count>2</sys_mod_count>
+            <sys_name>3.Position Information (cont.)</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+            <sys_update_name>sys_ui_section_ceb64ad72ff950109e63d7a72799b648</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-07-09 19:30:19</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

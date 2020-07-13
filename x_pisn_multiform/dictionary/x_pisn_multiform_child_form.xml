@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="x_pisn_multiform_child" label="Child Form" max_length="40" name="x_pisn_multiform_child_form" type="collection">
+    <element attributes="update_synch=true" extends="x_pisn_multiform_child" label="Child Form" max_length="40" name="x_pisn_multiform_child_form" sizeclass="1" type="collection">
         <element label="Description" max_length="8000" name="description" type="translated_html"/>
         <element label="Max child records" max_length="40" name="max_child_records" type="integer"/>
         <element label="Min child records" max_length="40" name="min_child_records" type="integer"/>

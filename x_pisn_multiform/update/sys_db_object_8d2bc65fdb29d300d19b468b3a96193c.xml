@@ -18,7 +18,7 @@
         <provider_class/>
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
-        <super_class display_value="Instance" name="sp_instance">b0ae147f1b0410108a8a631d274bcbb2</super_class>
+        <super_class display_value="Instance" name="sp_instance">c69f474e2f2510109e63d7a72799b623</super_class>
         <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
         <sys_class_path/>

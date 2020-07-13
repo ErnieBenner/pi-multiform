@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="HHS520 Request" max_length="40" name="x_pisn_multiform_hhs520_request" sizeclass="1" type="collection">
+        <element choice="3" default="pas_pa" label="Appointment Type" max_length="40" name="apointment_type" type="choice">
+            <choice>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="PAS/PA" sequence="0" value="pas_pa"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="Non-Career SES" sequence="1" value="noncareerses"/>
+                <element inactive_on_update="false" label="Carer SES" sequence="2" value="careerses"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="Schedule C" sequence="3" value="schedule c"/>
+                <element inactive_on_update="false" label="Commissioned Corps" sequence="4" value="commissioned corps"/>
+                <element inactive_on_update="false" label="GA" sequence="5" value="ga"/>
+                <element inactive_on_update="false" label="Title 42" sequence="6" value="title 42"/>
+                <element inactive_on_update="false" label="Other" sequence="7" value="other"/>
+            </choice>
+        </element>
+        <element label="Date" max_length="40" name="date" type="glide_date"/>
+        <element label="Employee First Name" max_length="40" name="employeefirstname" type="string"/>
+        <element label="Employee Last Name" max_length="40" name="employeelastname" type="string"/>
+        <element label="Employee Middle Initial" max_length="40" name="employeemiddleinitial" type="string"/>
+        <element label="Federal Salary" max_length="40" name="federalsalary" type="string"/>
+        <element choice="1" label="Financial Disclosure Status" max_length="40" name="financialdisclosurestatus" type="choice">
+            <choice/>
+        </element>
+        <element label="Grade" max_length="40" name="grade" type="string"/>
+        <element label="Number" max_length="40" name="number" type="string"/>
+        <element label="Office Cell" max_length="40" name="office_cell" type="string"/>
+        <element label="Office City" max_length="40" name="office_city" type="string"/>
+        <element label="Office Email" max_length="40" name="office_email" type="string"/>
+        <element label="Office fax" max_length="40" name="office_fax" type="string"/>
+        <element label="Office Phone" max_length="40" name="office_phone" type="string"/>
+        <element label="Office State" max_length="40" name="office_state" type="string"/>
+        <element label="Office Street" max_length="40" name="office_street" type="string"/>
+        <element label="Office Zip" max_length="40" name="office_zip" type="string"/>
+        <element label="Description of Other Appointment" max_length="40" name="otherappointmentdescription" type="string"/>
+        <element label="Position Title" max_length="40" name="positiontitle" type="string"/>
+        <element choice="3" default="initial request" hint="Hint text" label="Request Type" max_length="40" name="request_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Initial Request" sequence="0" value="initial request"/>
+                <element inactive_on_update="false" label="Revised Request" sequence="1" value="revised request"/>
+                <element inactive_on_update="false" label="Renewal" sequence="2" value="renewal"/>
+            </choice>
+        </element>
+        <element label="Step" max_length="40" name="step" type="string"/>
+    </element>
+</database>

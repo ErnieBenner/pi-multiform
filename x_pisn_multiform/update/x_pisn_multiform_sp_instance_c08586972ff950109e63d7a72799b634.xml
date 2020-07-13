@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="x_pisn_multiform_sp_instance">
+    <x_pisn_multiform_sp_instance action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <instructions><![CDATA[Please use the &#34;Open in platform&#34; link from the hamburger menu on this dialog to configure this widget.]]></instructions>
+        <order>1</order>
+        <progression_method>full</progression_method>
+        <record/>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">06754a972ff950109e63d7a72799b670</sp_column>
+        <sp_widget display_value="Multiform">52da025fdb29d300d19b468b3a961947</sp_widget>
+        <success_page display_value="multiformhome">multiformhome</success_page>
+        <sys_class_name>x_pisn_multiform_sp_instance</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-07-09 19:03:01</sys_created_on>
+        <sys_id>c08586972ff950109e63d7a72799b634</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Multiform" source="x_pisn_multiform">991a021fdb29d300d19b468b3a9619b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Multiform">991a021fdb29d300d19b468b3a9619b4</sys_scope>
+        <sys_update_name>x_pisn_multiform_sp_instance_c08586972ff950109e63d7a72799b634</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-07-09 19:08:12</sys_updated_on>
+        <table>x_pisn_multiform_hhs520_request</table>
+        <title/>
+        <url/>
+        <view display_value="Default view" name="NULL">Default view</view>
+        <widget_parameters/>
+    </x_pisn_multiform_sp_instance>
+    <sys_translated_text action="delete_multiple" query="documentkey=c08586972ff950109e63d7a72799b634"/>
+</record_update>
